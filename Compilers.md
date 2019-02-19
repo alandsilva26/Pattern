@@ -96,7 +96,7 @@ Now you are ready to Compile and run
  the program will have run    
 
         
-###CODE::BLOCKS
+###CODE::BLOCKS  
 You could also download CODE::BLOCKS IDE which comes with the GCC compiler  
 Download the binary release from [here](http://www.codeblocks.org/downloads)  
 Download the one that says `mingw-setup.exe`  
