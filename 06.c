@@ -18,7 +18,7 @@ int main()
 	/*
 	This for loop has a special conditions since the number of rows printed is not equal to the number entered by the user
 	*/
-    for(i=1;i<=(2*n-1)/2;i++)
+    for(i=1;i<(2*n-1)/2;i++)
 	{  
 		//prints spaces
 		/*if n=5 then the loop will print two spaces as (5-i)/2=2 since i=1*/
