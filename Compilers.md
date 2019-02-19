@@ -5,7 +5,7 @@ Compilation of this program was done by using gcc compiler version 7.4.0 built b
 To install GCC Compiler and run programs in your command prompt follow steps 
  
  First check if GCC already exists by running the following command in your command promt
- `*gcc -v*` 
+ `gcc -v` 
  If not then proceed with the following steps
 
  Install MSYS2 from their site [MSYS2](http://www.msys2.org/)  
@@ -85,11 +85,11 @@ gcc version 7.4.0 (Rev1, Built by MSYS2 project)
  cd into your desired directory where file is located
  or type cmd in the adress bar 
  then type command 
- '''gcc -o name name.c '''
+ `gcc -o name name.c`
  the name after -o is the name given to exe file that is generated
  Correct errors if any and run the above command again when done 
  If no errors are generated 
- Type '''name ''' that is the name of your .exe 
+ Type `name`that is the name of your .exe 
  the program will have run
 
 
