@@ -4,9 +4,8 @@ Compilation of this program was done by using gcc compiler version 7.4.0 built b
 
 To install GCC Compiler and run programs in your command prompt follow steps 
  
- First check if GCC already exists by running the following command in your command prompt
-    ''' gcc -v 
-    '''
+ First check if GCC already exists by running the following command in your command promt
+    'gcc -v' 
  If not then proceed with the following steps
 
  Install MSYS2 from their site [MSYS2](http://www.msys2.org/)  
@@ -46,8 +45,12 @@ To install GCC Compiler and run programs in your command prompt follow steps
  Click Environment Variables
  In User variables 
  Add new Path 
- Give a suitable Variable Name and add Varible Value as '''C:\msys64\mingw64\bin''' i.e. path to bin
- Then Repeat and add '''C:\msys64\ming32\bin''' in this order
+ Give a suitable Variable Name and add Varible Value as
+    '''C:\msys64\mingw64\bin'''
+   i.e. path to bin
+ Then Repeat and add
+    '''C:\msys64\ming32\bin''' 
+   in this order
 
  Now you are good to go 
  Type'''gcc -v ''' in your cmd and you will be greeted with something like this
