@@ -5,7 +5,7 @@ Compilation of this program was done by using gcc compiler version 7.4.0 built b
 To install GCC Compiler and run programs in your command prompt follow steps 
  
  First check if GCC already exists by running the following command in your command promt
-    'gcc -v' 
+ `gcc -v` 
  If not then proceed with the following steps
 
  Install MSYS2 from their site [MSYS2](http://www.msys2.org/)  
@@ -21,18 +21,18 @@ To install GCC Compiler and run programs in your command prompt follow steps
  Now we will install GCC and all other required pakages 
  
  Copy the following code and paste in the shell 'Ctrl + v' might not work
-    '''	pacman -S --needed base-devel mingw-w64-i686-toolchain mingw-w64-x86_64-toolchain \
+ '''	pacman -S --needed base-devel mingw-w64-i686-toolchain mingw-w64-x86_64-toolchain \
                     git subversion mercurial \
                     mingw-w64-i686-cmake mingw-w64-x86_64-cmake
-    '''
+'''
  Just click Enter and follow default instructions
  
  Wait for everything to download and install.
  GCC is now installed but you cannot Compile in ur cmd yet
  If you try a GCC command such as 
-     ''' gcc -v '''
+ ''' gcc -v '''
  you will get the following error
-    '''gcc is not recognized as an internal or external command'''
+ '''gcc is not recognized as an internal or external command'''
  This is because your pc does not know the path to gcc
  You will have to manually set the path
 
@@ -45,11 +45,8 @@ To install GCC Compiler and run programs in your command prompt follow steps
  Click Environment Variables
  In User variables 
  Add new Path 
- Give a suitable Variable Name and add Varible Value as
-    '''C:\msys64\mingw64\bin'''
-   i.e. path to bin
- Then Repeat and add
-    '''C:\msys64\ming32\bin''' 
+ Give a suitable Variable Name and add Varible Value as'''C:\msys64\mingw64\bin''' i.e. path to bin
+ Then Repeat and add'''C:\msys64\ming32\bin''' 
    in this order
 
  Now you are good to go 
