@@ -1,11 +1,15 @@
 Compilation of this program was done by using gcc compiler version 7.4.0 built by msys project  
 '''
-#installation   
+###Installation   
 '''
 To install GCC Compiler and run programs in your command prompt follow steps 
  
  First check if GCC already exists by running the following command in your command prompt
- ''' gcc -v '''
+ ''' 
+ 
+ gcc -v 
+
+ '''
  If not then proceed with the following steps
 
  Install MSYS2 from their site [MSYS2](http://www.msys2.org/)  
