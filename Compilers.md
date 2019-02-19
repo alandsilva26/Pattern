@@ -2,7 +2,8 @@ Compilation of this program was done by using gcc compiler version 7.4.0 built b
 
 ###Installation   
 
-To install GCC Compiler and run programs in your command prompt follow steps   
+To install GCC Compiler and run programs in your command prompt follow steps  
+For another method skip to CODEBLOCKS 
  
  First check if GCC already exists by running the following command in your command promt  
  `gcc -v`   
@@ -51,8 +52,7 @@ To install GCC Compiler and run programs in your command prompt follow steps
 
  Now you are good to go   
  Type `gcc -v` in your cmd and you will be greeted with something like this  
- ```
- Microsoft Windows [Version 10.0.17134.523]
+ ```Microsoft Windows [Version 10.0.17134.523]
 (c) 2018 Microsoft Corporation. All rights reserved.
 
 C:\Users\Dell>gcc -vMicrosoft Windows [Version 10.0.17134.523]
@@ -72,17 +72,16 @@ COLLECT_LTO_WRAPPER=C:/msys64/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.4.0/lto-
 Target: i686-w64-mingw32
 Configured with: ../gcc-7.4.0/configure --prefix=/mingw32 --with-local-prefix=/mingw32/local --build=i686-w64-mingw32   --host=i686-w64-mingw32 --target=i686-w64-mingw32 --with-native-system-header-dir=/mingw32/i686-w64-mingw32/include   --libexecdir=/mingw32/lib --enable-bootstrap --with-arch=i686 --with-tune=generic --enable-languages=c,lto,c++,objc,obj-c++,fortran,ada   --enable-shared --enable-static --enable-libatomic --enable-threads=posix --enable-graphite --enable-fully-dynamic-string --enable-libstdcxx-time=yes --enable-libstdcxx-filesystem-ts=yes   --disable-libstdcxx-pch --disable-libstdcxx-debug --disable-isl-version-check --enable-lto --enable-libgomp --disable-multilib   --enable-checking=release --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-libiconv   --with-system-zlib --with-gmp=/mingw32 --with-mpfr=/mingw32 --with-mpc=/mingw32 --with-isl=/mingw32 --with-pkgversion='Rev1, Built by   MSYS2 project' --with-bugurl=https://sourceforge.net/projects/msys2 --with-gnu-as --with-gnu-ld --disable-sjlj-exceptions --with-dwarf2  
 Thread model: posix
-gcc version 7.4.0 (Rev1, Built by MSYS2 project)
- ```
- Now you are ready to Compile and run  
+gcc version 7.4.0 (Rev1, Built by MSYS2 project)```
 
+Now you are ready to Compile and run  
 
 
 ###Compiling  
 
  Locate your program   
  I will be giving this example considering .c program  
- cd into your desired directory where file is locate or type cmd in the adress bar     
+ mcd into your desired directory where file is locate or type cmd in the adress bar     
  then type command   
  `gcc -o name name.c`  
  eg. gcc -o helloworld helloworld.c  
@@ -91,6 +90,10 @@ gcc version 7.4.0 (Rev1, Built by MSYS2 project)
  If no errors are generated     
  Type `name`that is the name of your .exe     
  the program will have run    
+
+        
+###CODEBLOCKS
+
 
 [More](https://github.com/orlp/dev-on-windows/wiki/Installing-GCC--&-MSYS2)  
  Thank you  
