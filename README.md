@@ -1,7 +1,7 @@
 # Pattern  
-This Repo contains basic c algorithms  
-Text editor used- Sublime Text 3   
-Compiler used- GCC for Windows  
+List and overview of patterns included  
+Text editor used - Sublime Text 3   
+Compiler used - GCC for Windows  
 All programs have their .exe files bellow them  
 Download files to run them   
 
