@@ -6,9 +6,7 @@ To install GCC Compiler and run programs in your command prompt follow steps
  
  First check if GCC already exists by running the following command in your command prompt
  ''' 
- 
- gcc -v 
-
+ 			gcc -v 
  '''
  If not then proceed with the following steps
 
@@ -26,7 +24,7 @@ To install GCC Compiler and run programs in your command prompt follow steps
  
  Copy the following code and paste in the shell 'Ctrl + v' might not work
  '''
- pacman -S --needed base-devel mingw-w64-i686-toolchain mingw-w64-x86_64-toolchain \
+	pacman -S --needed base-devel mingw-w64-i686-toolchain mingw-w64-x86_64-toolchain \
                     git subversion mercurial \
                     mingw-w64-i686-cmake mingw-w64-x86_64-cmake
  '''
@@ -72,7 +70,7 @@ gcc version 7.4.0 (Rev1, Built by MSYS2 project)
 
 
  '''
- #Compiling
+ ###Compiling
  '''
  Locate your program 
  I will be giving this example considering .c program
