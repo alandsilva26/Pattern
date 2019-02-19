@@ -37,6 +37,8 @@ For another method skip to CODEBLOCKS
  This is because your pc does not know the path to gcc  
  You will have to manually set the path  
 
+
+##PATH
  To set path  
  Locate This PC on your Desktop  
  Right-Click   
@@ -94,8 +96,21 @@ Now you are ready to Compile and run
  the program will have run    
 
         
-###CODEBLOCKS
+###CODE::BLOCKS
+You could also download CODE::BLOCKS IDE which cones with the GCC compiler
+Download the binary release from [here](http://www.codeblocks.org/downloads)
+Download the one that says `mingw-setup.exe`
+Make sure that you dont have gcc previously installed in your computer 
+Follow the instructions 
+You will have to set the path manually as we did previously
+The bin lies in `C:\Program Files(x86)|CodeBlocks\MinGW\bin`
+
+[MinGW](http://www.mingw.org/)
+[MSYS2](http://www.msys2.org/)
+[GCC](https://gcc.gnu.org/)
+[CodeBlocks](http://www.codeblocks.org/)
+[More](https://github.com/orlp/dev-on-windows/wiki/Installing-GCC--&-MSYS2) 
+[Installing CodeBlocks](https://www.journaldev.com/25757/c-compiler-windows-gcc)
 
 
-[More](https://github.com/orlp/dev-on-windows/wiki/Installing-GCC--&-MSYS2)  
  Thank you  
