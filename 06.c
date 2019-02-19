@@ -13,11 +13,16 @@ int main()
 	//Here we will use two nested for loops 
 	//One to print spaces 
 	//One to print numbers
-	for(i=1;i<=n;i++)
+
+
+	/*
+	This for loop has a special conditions since the number of rows printed is not equal to the number entered by the user
+	*/
+    for(i=1;i<=(2*n-1)/2;i++)
 	{  
 		//prints spaces
 		/*if n=5 then the loop will print two spaces as (5-i)/2=2 since i=1*/
-		for(j=1;j<=(n-i)/2);j++
+		for(j=1;j<=(n-i)/2;j++)
 		{
 			printf(" \t");
 		}
@@ -26,7 +31,9 @@ int main()
 		for(j=1;j<=(2*i-1);j++)
 		{
 			printf("%d\t",k);
+			k++;
 		}
+		//reset value of k
 		k=1;
 		printf("\n");
 	}
