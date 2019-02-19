@@ -82,15 +82,15 @@ gcc version 7.4.0 (Rev1, Built by MSYS2 project)
 
  Locate your program   
  I will be giving this example considering .c program  
- cd into your desired directory where file is located  
- or type cmd in the adress bar   
+ cd into your desired directory where file is locate or type cmd in the adress bar     
  then type command   
  `gcc -o name name.c`  
- the name after -o is the name given to exe file that is generated  
- Correct errors if any and run the above command again when done   
- If no errors are generated   
- Type `name`that is the name of your .exe   
- the program will have run  
+ eg. gcc -o helloworld helloworld.c  
+ The name after -o is the name given to exe file that is generated   
+ Correct errors if any and run the above command again when done     
+ If no errors are generated     
+ Type `name`that is the name of your .exe     
+ the program will have run    
 
 
 
