@@ -92,6 +92,5 @@ gcc version 7.4.0 (Rev1, Built by MSYS2 project)
  Type `name`that is the name of your .exe     
  the program will have run    
 
-
-
+[More](https://github.com/orlp/dev-on-windows/wiki/Installing-GCC--&-MSYS2)  
  Thank you  
