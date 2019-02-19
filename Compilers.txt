@@ -8,7 +8,7 @@ To install GCC Compiler and run programs in your command prompt follow steps
  ''' gcc -v '''
  If not then proceed with the following steps
 
- Install MSYS2 from their site http://www.msys2.org/  
+ Install MSYS2 from their site [MSYS2](http://www.msys2.org/)  
  Follow exact instructions  
  After this MSYS2 MSYS will be installed along with MSYS2 MinGW 32-bit and MSYS2 MinGW 64-bit  
  You can find the shortcuts in the start menu  
