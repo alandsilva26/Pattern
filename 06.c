@@ -17,10 +17,12 @@ int main()
 
 	for(i=1;i<=rows;i++)
 	{
+		//prints spaces
 		for(j=1;j<=rows-i;j++)
 		{
 			printf(" \t");
 		}
+		//prints numbers
 		for(j=1;j<=2*i-1;j++)
 		{
 			printf("%d\t",k);
