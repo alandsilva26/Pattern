@@ -15,16 +15,19 @@ int main()
 	//One to print numbers
 
 
-	for()
+	for(i=1;1<=rows;i++)
 	{
-		for()
+		for(j=1;j<rows-i;j++)
 		{
-
+			printf(" \t");
 		}
-		for()
+		for(j=1;j<2*i-1;j++)
 		{
-			
+			printf("%d",k);
+			k++;
 		}
+		k=1;
+		printf("\n");
 	}
 	getch();
 	return 0;
