@@ -20,13 +20,13 @@ int main()
 		for(j=1;j<=(2*i-1)/2;j++)
 		{
 			printf("%d\t",j);
-			k++;
 		}
-		//while(k)
-		//{
-
-		//}
-		k=1;
+		j--
+		while(j>0)
+		{
+			printf("%d\t",j);
+			j--;
+		}
 	 	printf("\n");
 	}
 	getch();
