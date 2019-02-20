@@ -20,7 +20,7 @@ int main()
 		for(j=1;j<=(2*i-1);j++)
 		{
 			prinf("k\t");
-			k++
+			k++;
 		}
 		k=1;
 	 	printf("\n");
