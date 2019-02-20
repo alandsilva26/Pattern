@@ -13,15 +13,19 @@ int main()
 	scanf("%d",&rows);
 	for(i=1;i<=rows;i++)
 	{
-		for(j=1;j<rows-i;j++)
+		for(j=1;j<=rows-i;j++)
 		{
 			printf(" \t");
 		}
 		for(j=1;j<=(2*i-1)/2;j++)
 		{
-			printf("%d\t",k);
+			printf("%d\t",j);
 			k++;
 		}
+		//while(k)
+		//{
+
+		//}
 		k=1;
 	 	printf("\n");
 	}
