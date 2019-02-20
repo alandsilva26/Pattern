@@ -11,7 +11,7 @@ int main()
 	//same as 01 but the values printed in each row is equal to #of row 
 	//eg. 1 has 1
 	//eg. 2 has 1 2
-	printf("Enter a number:");
+	printf("Enter number of rows:");
 	scanf("%d",&rows);
 	for(i=1;i<=rows;i++)
 	{

@@ -9,7 +9,7 @@ int main()
 {
 	int i,j,k=1,rows;
 	//prompt user to enter a number and read input
-	printf("Enter a number:");
+	printf("Enter number of rows:");
 	scanf("%d",&rows);
 	//first loop iterates through the rows 
 	for(i=1;i<=rows;i++)

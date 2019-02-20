@@ -8,7 +8,7 @@
 int main()
 {
 	int i,j,k=1,rows;
-	printf("Enter a number");
+	printf("Enter number of rows:");
 	scanf("%d",&rows);
 	//Here we will use two nested for loops 
 	//One to print spaces 

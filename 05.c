@@ -9,7 +9,7 @@ int main()
 {
 	int i,j,k=1,rows,c;
 	//prompt user to enter a number and read input
-	printf("Enter a number:");
+	printf("Enter number of rows:");
 	scanf("%d",&rows);
 	//creates copy
 	c=rows;
