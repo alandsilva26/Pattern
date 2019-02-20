@@ -17,7 +17,7 @@ int main()
 
 	for(i=1;i<=rows;i++)
 	{
-		for(j=1;j<rows-i;j++)
+		for(j=1;j<=rows-i;j++)
 		{
 			printf(" \t");
 		}
