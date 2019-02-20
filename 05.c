@@ -26,7 +26,7 @@ int main()
 		}
 		printf("\n");\
 		//reset the value of c
-		c=n;
+		c=rows;
 	}
 	getch();
 	return 0;
