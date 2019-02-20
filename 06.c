@@ -21,9 +21,6 @@ int main()
     for(i=1;i<(2*n-1)/2;i++)
 	{  
 		//prints spaces
-		/*
-
-		*/
 		for(j=1;j<n-1-i;j++)
 		{
 			printf(" \t");
