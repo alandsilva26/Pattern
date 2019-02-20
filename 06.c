@@ -34,3 +34,17 @@ int main()
 	getch();
 	return 0;
 }
+
+
+
+/*
+Here in the second for loop where we have used k to print values notice how we can also use j
+i.e. the number of values printed is equal to the number of times the for loop runs
+thus we can say 
+for(j=1;j<=(2*i-1);j++)
+{
+	printf("%d\t",j);
+}
+
+The advantages are that we wont have to declare extra valriable k 
+*/
