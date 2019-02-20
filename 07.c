@@ -17,15 +17,14 @@ int main()
 		{
 			printf(" \t");
 		}
+
 		for(j=1;j<=(2*i-1)/2;j++)
 		{
 			printf("%d\t",j);
 		}
-		j--
-		while(j>0)
+		for(j=i-1;j>i;j--)
 		{
 			printf("%d\t",j);
-			j--;
 		}
 	 	printf("\n");
 	}
