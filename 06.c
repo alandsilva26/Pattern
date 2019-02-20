@@ -22,8 +22,7 @@ int main()
 	{  
 		//prints spaces
 		/*
-		If n=5 then the loop will print two spaces as (5/2)+1-i=2 since i=1
-		Thus when i=2 j will print space only once etc
+
 		*/
 		for(j=1;j<n-1-i;j++)
 		{
