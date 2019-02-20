@@ -7,9 +7,9 @@
 #include<conio.h>
 int main()
 {
-	int i,j,k=1,n;
+	int i,j,k=1,rows;
 	printf("Enter a number");
-	scanf("%d",&n);
+	scanf("%d",&rows);
 	//Here we will use two nested for loops 
 	//One to print spaces 
 	//One to print numbers

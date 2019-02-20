@@ -7,17 +7,17 @@
 #include<conio.h>
 int main()
 {
-	int i,j,k=1,n,c;
+	int i,j,k=1,rows,c;
 	//prompt user to enter a number and read input
 	printf("Enter a number:");
-	scanf("%d",&n);
+	scanf("%d",&rows);
 	//creates copy
-	c=n;
+	c=rows;
 	//first loop iterates through the rows 
-	for(i=1;i<=n;i++)
+	for(i=1;i<=rows;i++)
 	{
 		//second loop iterates through each coloum in each row
-		for(j=1;j<=n;j++)
+		for(j=1;j<=rows;j++)
 		{
 			//the first number is printed by value of c i.e. the last number
 			printf("%d\t",c);
