@@ -81,7 +81,7 @@ gcc version 7.4.0 (Rev1, Built by MSYS2 project)
 Now you are ready to Compile and run  
 
 
-###Compiling  
+###Compiling    
 
  Locate your program   
  I will be giving this example considering .c program  
