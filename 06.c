@@ -15,15 +15,15 @@ int main()
 	//One to print numbers
 
 
-	for(i=1;1<=rows;i++)
+	for(i=1;i<=rows;i++)
 	{
 		for(j=1;j<rows-i;j++)
 		{
 			printf(" \t");
 		}
-		for(j=1;j<2*i-1;j++)
+		for(j=1;j<=2*i-1;j++)
 		{
-			printf("%d",k);
+			printf("%d\t",k);
 			k++;
 		}
 		k=1;
