@@ -22,7 +22,7 @@ int main()
 		{
 			printf("%d\t",j);
 		}
-		for(j=i-1;j>i;j--)
+		for(j=i-1;j>0;j--)
 		{
 			printf("%d\t",j);
 		}
