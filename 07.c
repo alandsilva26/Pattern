@@ -18,7 +18,7 @@ int main()
 			printf(" \t");
 		}
 
-		for(j=1;j<=(2*i-1)/2;j++)
+		for(j=1;j<=i;j++)
 		{
 			printf("%d\t",j);
 		}
