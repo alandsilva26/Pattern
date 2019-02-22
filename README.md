@@ -17,7 +17,7 @@ Directly Run .exe files
 #To install compilers  
 Refer `Compilers.md` file
 
-#Errors
-Do fork and correct errors if any.
-Contact email - `alandsilva2001@gmail.com`
-				`deathbringer2604@gmail.com`
+#Errors  
+Do fork and correct errors if any.  
+Contact email - `alandsilva2001@gmail.com`  
+				`deathbringer2604@gmail.com`  
