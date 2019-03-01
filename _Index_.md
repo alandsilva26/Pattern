@@ -58,5 +58,19 @@ Index of Patterns
 1 2 3 4 3 2 1      
 
 
+#10    
+      *    
+    * A *    
+  * A * A *  
+* A * A * A *   
+
+
+#11  
+E  
+E D  
+E D C  
+E D C B  
+E D C B A  
+
 
 
