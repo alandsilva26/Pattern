@@ -1,7 +1,7 @@
 Compilation of this program was done by using gcc compiler version 7.4.0 built by msys project  
 
 ###Installation   
-<pre>
+
 To install GCC Compiler and run programs in your command prompt follow steps  
 For another method skip to CODEBLOCKS 
  
@@ -37,9 +37,9 @@ For another method skip to CODEBLOCKS
  This is because your pc does not know the path to gcc  
  You will have to manually set the path  
 
-</pre>
+
 ##PATH
-<pre>
+
  To set path  
  Locate This PC on your Desktop  
  Right-Click   
@@ -81,9 +81,9 @@ gcc version 7.4.0 (Rev1, Built by MSYS2 project)
 
 Now you are ready to Compile and run  
 
-</pre>
+
 ###Compiling    
-<pre>
+
  Locate your program   
  I will be giving this example considering .c program  
  mcd into your desired directory where file is locate or type cmd in the adress bar     
@@ -113,5 +113,5 @@ The bin lies in `C:\Program Files(x86)|CodeBlocks\MinGW\bin`
 [More](https://github.com/orlp/dev-on-windows/wiki/Installing-GCC--&-MSYS2)   
 [Installing CodeBlocks](https://www.journaldev.com/25757/c-compiler-windows-gcc)  
 
-<pre>
+
  Thank you  
