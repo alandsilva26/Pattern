@@ -3,8 +3,8 @@
 int main()
 {
 	int i,j,rows;
+	printf("Enter Number of rows:");
 
 	getch()
 	return 0;
-	
 }
