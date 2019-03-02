@@ -20,6 +20,8 @@ int main()
 		}
 		for(j=1;j<=2*i-1;j++)
 		{
+			//here when j is odd we print *
+			//when j is even we print A
 			if(j%2!=0)
 			{
 				printf("*\t");
