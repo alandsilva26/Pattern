@@ -1,6 +1,6 @@
 ###Index of Patterns   
 
-#01
+#[01](https://github.com/DeathBringer269/Pattern/blob/master/01.c)
 <pre>
 1 2 3  
 1 2 3   
