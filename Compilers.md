@@ -1,6 +1,6 @@
 #Compilation of this program was done by using gcc compiler version 7.4.0 built by msys project  
 
-###Installation   
+####Installation   
 
 To install GCC Compiler and run programs in your command prompt follow steps  
 For another method skip to CODEBLOCKS 
@@ -39,7 +39,7 @@ This is because your pc does not know the path to gcc
 You will have to manually set the path  
 
  
-##PATH
+###PATH
 
 To set path  
 Locate This PC on your Desktop  
