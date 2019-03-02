@@ -1,6 +1,6 @@
 ###Index of Patterns   
 <pre>
-#01 
+#<b>01</b> 
 
 1 2 3  
 1 2 3   
