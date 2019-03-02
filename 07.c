@@ -8,7 +8,7 @@
 #include<conio.h>
 int main()
 {
-	int i,j,k=1,rows;
+	int i,j,rows;
 	printf("Enter number of rows:");
 	scanf("%d",&rows);
 	for(i=1;i<=rows;i++)
@@ -19,24 +19,11 @@ int main()
 			printf(" \t");
 		}
 		//prints the first half of numbers
-		/*
-				1
-			  1 2 
-            1 2 3
-          1 2 3 4 
-		*/
 		for(j=1;j<=i;j++)
 		{
 			printf("%d\t",j);
 		}
 		//prints the second half
-		/*
-				
-				 1
-				 2 1 
-                 3 2 1
-			     4 3 2 1
-		*/
 		for(j=i-1;j>0;j--)
 		{
 			printf("%d\t",j);
