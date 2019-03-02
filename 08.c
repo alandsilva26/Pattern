@@ -1,3 +1,9 @@
+/*
+      4
+    3 4
+  2 3 4
+1 2 3 4   
+*/
 #include<stdio.h>
 #include<conio.h>
 int main()
