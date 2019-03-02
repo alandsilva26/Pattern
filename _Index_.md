@@ -1,5 +1,5 @@
 Index of Patterns   
-
+<pre>
 
 #01  
 1 2 3  
@@ -74,3 +74,4 @@ E D C B A
 
 
 
+</pre>
