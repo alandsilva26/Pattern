@@ -1,5 +1,5 @@
 ###Index of Patterns   
-<pre>
+
 #[01](https://raw.githubusercontent.com/DeathBringer269/Pattern/Changes/01.c)
 
 1 2 3  
