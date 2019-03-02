@@ -101,4 +101,24 @@ E D C B A
 * 2 3 4 5   
 </pre>
 
+#[14](https://github.com/DeathBringer269/Pattern/blob/master/14.c)    
+<pre>
+* * * * * * * * * *   
+* * * *     * * * *  
+* * *         * * *  
+* *             * *  
+*                 *  
+</pre>
+
+#[15](https://github.com/DeathBringer269/Pattern/blob/master/15.c)    
+<pre>
+      1         
+    2 3 2 
+  3 4 5 4 3 
+4 5 6 7 6 5 4 
+</pre>
+
+
+
+
 END
