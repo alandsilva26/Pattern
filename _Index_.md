@@ -1,13 +1,13 @@
 ###Index of Patterns   
 
-#[01](https://github.com/DeathBringer269/Pattern/blob/master/01.c)  
+#[01](https://github.com/DeathBringer269/Pattern/blob/master/01.c)
 <pre>
 1 2 3  
 1 2 3   
 1 2 3  
 
 
-#02
+#02  
 <pre>
 1  
 1 2  
