@@ -1,27 +1,28 @@
 ###Index of Patterns   
 
-#[01](https://raw.githubusercontent.com/DeathBringer269/Pattern/Changes/01.c)
+#[01](Pattern/01.c)
 <pre>
 1 2 3  
 1 2 3   
 1 2 3  
+      
 
-
-#02  
+#[02](https://raw.githubusercontent.com/DeathBringer269/Pattern/Changes/02.c)
+<pre>  
 <pre>
 1  
 1 2  
 1 2 3   
 </pre>
 
-#03
+#[03](https://raw.githubusercontent.com/DeathBringer269/Pattern/Changes/03.c)
 <pre>
 1 2 3  
 4 5 6   
 7 8 9  
 </pre>
 
-#04
+#[04](https://raw.githubusercontent.com/DeathBringer269/Pattern/Changes/04.c)
 <pre>
 1 2 3   
 1 2  
