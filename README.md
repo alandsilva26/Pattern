@@ -1,11 +1,11 @@
-# Pattern  
+###Pattern  
 List and overview of patterns included in [\_Index\_.md](https://github.com/DeathBringer269/Pattern/blob/master/_Index_.md)   
 Text editor used - `Sublime Text 3`   
 Compiler used - `GCC for Windows`  
 All programs have their .exe files bellow them   
 Note that if you make changes to the code you will have to compile the program again     
 
-#Compilers  
+##Compilers  
 
 
 1. [GCC](https://gcc.gnu.org/)  
@@ -23,10 +23,10 @@ Includes Windows SDK
 Copy .C files to C:\TURBOC3\BIN  
 Compile and then Run    
 
-#To install compilers  
-Refer[Compilers.md](https://github.com/DeathBringer269/Pattern/blob/master/Compilers.md) file
+##To install compilers  
+Refer [Compilers.md](https://github.com/DeathBringer269/Pattern/blob/master/Compilers.md) file  
 
-#Errors  
+##Errors  
 Do fork and correct errors if any.  
 Contact email - `alandsilva2001@gmail.com`  
 				`deathbringer2604@gmail.com`  
