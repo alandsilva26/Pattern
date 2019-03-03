@@ -22,7 +22,15 @@ Includes Windows SDK
 
 4. `Turbo C`  
 Copy .C files to C:\TURBOC3\BIN  
-Compile and then Run  
+Compile and then Run    
+
+#To install compilers  
+Refer[Compilers.md](https://github.com/DeathBringer269/Pattern/blob/master/Compilers.md) file
+
+#Errors  
+Do fork and correct errors if any.  
+Contact email - `alandsilva2001@gmail.com`  
+				`deathbringer2604@gmail.com`  
 
 
 
