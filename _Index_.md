@@ -107,7 +107,7 @@ E D C B A
 * * * *     * * * *  
 * * *         * * *  
 * *             * *  
-*                 *  
+*                 * 
 </pre>
 
 #[15](https://github.com/DeathBringer269/Pattern/blob/master/Programs/15.c)    
@@ -116,6 +116,24 @@ E D C B A
     2 3 2 
   3 4 5 4 3 
 4 5 6 7 6 5 4 
+</pre>
+
+#[16](https://github.com/DeathBringer269/Pattern/blob/master/Programs/16.c)    
+<pre>
+        5           
+      5 4   
+    5 4 3   
+  5 4 3 2  
+5 4 3 2 1    
+</pre>
+
+#[17](https://github.com/DeathBringer269/Pattern/blob/master/Programs/17.c)    
+<pre>
+* * * * * * * * *   
+* * * *   * * * *  
+* * *       * * *  
+* *           * *  
+*               * 
 </pre>
 
 
