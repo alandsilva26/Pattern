@@ -16,7 +16,7 @@ int main()
 	{
 		for(j=1;j<=rows-i;j++)
 		{
-			printf("\t'");
+			printf("\t");
 		}
 		k=rows;
 		for(j=1;j<=i;j++)
