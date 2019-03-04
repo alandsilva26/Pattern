@@ -136,6 +136,14 @@ E D C B A
 *               * 
 </pre>
 
+#[18](https://github.com/DeathBringer269/Pattern/blob/master/Programs/18.c)    
+<pre>
+5  
+4 4   
+3 3 3    
+2 2 2 2  
+1 1 1 1 1  
+</pre>
 
 
 
