@@ -29,14 +29,9 @@ int main()
 			here the first and second row of the second part have the same number of rows
 			thus when we print the first row the number of stars printed are one less
 			*/
-			if(i==1 && j==1)
-			{
-				j++;
-			}
-			else
-			{
-				printf("*\t");
-			}
+			(i==1 && j==1)?j=j+1:j;
+			printf("*\t");
+			
 		}
 		printf("\n");
 	}
