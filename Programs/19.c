@@ -23,10 +23,11 @@ int main()
 			}
 			else
 			{
-				printf("1\t")
+				printf("1\t");
 			}
-			printf("\n");
+		
 		}
+		printf("\n");	
 	}
 	getch();
 	return 0;
