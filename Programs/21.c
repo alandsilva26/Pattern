@@ -9,24 +9,19 @@
 #include<conio.h>
 int main()
 {
-	int i,j,k,rows;
+	int i,j,rows;
 	printf("Enter number of rows:");
 	scanf("%d",&rows);
 
 	for(i=1;i<=rows;i++)
 	{
-		k=i-1;
-		for(j=1;j<=rows;j++)
+		for(j=i;j<=rows;j++)
 		{
-			if(j<rows-i)
-			{
 				printf("%d\t",j);
-			}
-			else
-			{
-				printf("%d\t",k);
-				k--;
-			}
+		}
+		for(j=i-1;j>0;j--)
+		{
+				printf("%d\t",j);
 		}
 		printf("\n");	
 	}
