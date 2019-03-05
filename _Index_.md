@@ -145,6 +145,14 @@ E D C B A
 1 1 1 1 1  
 </pre>
 
+#[19](https://github.com/DeathBringer269/Pattern/blob/master/Programs/19.c)    
+<pre>
+11111
+0000
+111
+00
+1
+</pre>
 
 
 END
