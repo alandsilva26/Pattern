@@ -17,7 +17,7 @@ int main()
 	{
 		for(j=1;j<=rows+1-i;j++)
 		{
-			if(j%2==0)
+			if(i%2==0)
 			{
 				printf("0\t");
 			}
