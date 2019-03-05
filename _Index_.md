@@ -161,5 +161,14 @@ E D C B A
 1 0 1 
 </pre>
 
+#[21](https://github.com/DeathBringer269/Pattern/blob/master/Programs/21.c)    
+<pre>
+1 2 3 4 5 
+2 3 4 5 1
+3 4 5 2 1 
+4 5 3 2 1
+5 4 3 2 1
+</pre>
+
 
 END
