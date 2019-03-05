@@ -147,11 +147,18 @@ E D C B A
 
 #[19](https://github.com/DeathBringer269/Pattern/blob/master/Programs/19.c)    
 <pre>
-11111
-0000
-111
-00
+1 1 1 1 1
+0 0 0 0
+1 1 1
+0 0
 1
+</pre>
+
+#[20](https://github.com/DeathBringer269/Pattern/blob/master/Programs/20.c)    
+<pre>
+1 0 1 
+1 0 1 
+1 0 1 
 </pre>
 
 
