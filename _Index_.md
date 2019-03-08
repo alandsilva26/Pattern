@@ -179,4 +179,11 @@ E D C B A
 15 19 25 32 40
 </pre>
 
+#[23](https://github.com/DeathBringer269/Pattern/blob/master/Programs/23.c)    
+<pre>
+1  5  9  13  
+2  6  10 12 
+3  7  11 15 
+4  8  12 16 
+</pre>
 END
