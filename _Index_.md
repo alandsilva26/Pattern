@@ -170,5 +170,13 @@ E D C B A
 5 4 3 2 1
 </pre>
 
+#[22](https://github.com/DeathBringer269/Pattern/blob/master/Programs/22.c)    
+<pre>
+1  2  4  7  11
+3  5  8  12 16
+6  9  13 17 23
+10 14 18 24 31
+15 19 25 32 40
+</pre>
 
 END
