@@ -48,10 +48,11 @@ Open Properties
 Click Advanced System Settings  
 In Advanced   
 Click Environment Variables  
-In User variables   
+In System variables   
 Add new Path   
 Give a suitable Variable Name and add Varible Value as `C:\msys64\mingw64\bin` i.e. path to bin  
 Then Repeat and add `C:\msys64\ming32\bin`  in this order  
+
 
 Now you are good to go   
 Type`gcc -v` in your cmd and you will be greeted with something like this  
@@ -79,7 +80,10 @@ Thread model: posix
 gcc version 7.4.0 (Rev1, Built by MSYS2 project)
 ```
 
-Now you are ready to Compile and run  
+Now you are ready to Compile and run 
+If you still get this error 
+`gcc is not recognized as an internal or external command` 
+[try this](https://www.windows-commandline.com/gcc-not-recognized-internal-external-command/#comment-26137)
 
 
 ###Compiling    
