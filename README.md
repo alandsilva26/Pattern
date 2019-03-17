@@ -10,7 +10,8 @@ Note that if you make changes to the code you will have to compile the program a
 
 1. [GCC](https://gcc.gnu.org/)  
 [Installing GCC](https://github.com/DeathBringer269/Pattern/blob/master/Compilers.md)   
-Directly Run .exe files     
+Directly Run .exe files   
+[What is GCC](https://medium.com/@meghamohan/everything-you-want-to-know-about-gcc-fa5805452f96)  
 
 2. [CodeBlocks](http://www.codeblocks.org/)   
 Download `codeblocks-versionmingw-setup.exe`  
