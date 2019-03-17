@@ -48,11 +48,10 @@ Open Properties
 Click Advanced System Settings  
 In Advanced   
 Click Environment Variables  
-In System variables   
-Add new Path   
-Give a suitable Variable Name and add Varible Value as `C:\msys64\mingw64\bin` i.e. path to bin  
-Then Repeat and add `C:\msys64\ming32\bin`  in this order  
-
+In User variables   
+Add new entries to  `Path`   
+Add `C:\msys64\mingw64\bin` and `C:\msys64\ming32\bin`  in the same order to `Path`   
+The path may vary according to where you have installed mingw  
 
 Now you are good to go   
 Type`gcc -v` in your cmd and you will be greeted with something like this  
