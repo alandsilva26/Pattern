@@ -23,9 +23,7 @@ Now we will install GCC and all other required pakages
  
 Copy the following code and paste in the shell `Ctrl + v` might not work  
 ```
-pacman -S --needed base-devel mingw-w64-i686-toolchain mingw-w64-x86_64-toolchain \
-                    git subversion mercurial \
-                    mingw-w64-i686-cmake mingw-w64-x86_64-cmake
+pacman -S --needed base-devel mingw-w64-i686-toolchain mingw-w64-x86_64-toolchain \git subversion mercurial \mingw-w64-i686-cmake mingw-w64-x86_64-cmake
 ```
 Just click Enter and follow default instructions  
    
