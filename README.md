@@ -1,4 +1,4 @@
-### Pattern  [![Build Status](https://travis-ci.com/DeathBringer269/Pattern.png?branch=master)](https://travis-ci.com/DeathBringer269/Pattern)
+### Pattern  [![Build Status]
 List and overview of patterns included in [\_Index\_.md](https://github.com/DeathBringer269/Pattern/blob/master/_Index_.md)   
 Text editor used - `Sublime Text 3`   
 Compiler used - `GCC for Windows`  
