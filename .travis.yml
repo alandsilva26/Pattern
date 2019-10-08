@@ -1,5 +1,5 @@
 language: c
 compiler: 
-	- gcc
-script:
+    - gcc
+script: 
     - gcc -o test test.c
