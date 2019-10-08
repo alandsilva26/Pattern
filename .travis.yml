@@ -1,3 +1,4 @@
-language:node_js
-node_js: 
-    - "node"
+language: C
+compiler: 
+	- gcc
+script: npm test
