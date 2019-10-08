@@ -1,4 +1,4 @@
-###Index of Patterns   
+###Index of Patterns     
 
 #[01](https://github.com/DeathBringer269/Pattern/blob/master/Programs/01.c)
 <pre>
