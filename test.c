@@ -4,7 +4,6 @@
 1 2 3
 */
 #include<stdio.h>
-#include<conio.h>
 int main()
 {
 	int i,j,k=1,rows;
@@ -26,6 +25,5 @@ int main()
 		//reset the value of k
 		k=1;
 	}
-	getch();
 	return 0;
 }
