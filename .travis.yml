@@ -1,4 +1,5 @@
-language: c
-compiler:
-    - gcc
+
+language: C
+compiler: 
+	- gcc
 script: npm test
