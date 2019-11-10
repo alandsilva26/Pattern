@@ -1,9 +1,9 @@
 ### Pattern  
-List and overview of patterns included in [\_Index\_.md](https://github.com/DeathBringer269/Pattern/blob/master/_Index_.md)   
+List and overview of patterns included in [\_Index\_.md](https://github.com/DeathBringer269/Pattern/blob/master/_Index_.md)  
+Algorithms become harder as you move ahead.     
 Text editor used - `Sublime Text 3`   
 Compiler used - `GCC for Windows`  
-All programs have their .exe files bellow them   
-Note that if you make changes to the code you will have to compile the program again     
+I have included the compiled files for Windows Operating system below each source.  
 
 ## Compilers  
 
@@ -15,6 +15,7 @@ Directly Run .exe files
 
 2. [CodeBlocks](http://www.codeblocks.org/)   
 Download `codeblocks-versionmingw-setup.exe`  
+Note: May require gcc compiler!  
 
 3. [Pelles C Compiler](https://www.pellesc.de/index.php?page=download&version=5.00.1&lang=en)
 C IDE and compiler for Windows   

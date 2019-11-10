@@ -187,7 +187,7 @@ E D C B A
 4  8  12 16 
 </pre>
 
-#[24]
+#[24](https://github.com/DeathBringer269/Pattern/blob/master/Programs/24.c)
 <pre>
 5 5 5 5 5 5 5 5 5 
 5 4 4 4 4 4 4 4 5 

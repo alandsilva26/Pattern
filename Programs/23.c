@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include<conio.h>
  
 int main()
 {
@@ -17,5 +18,7 @@ int main()
 		}
 		printf("\n");
 	}
+
+	getch();
     return 0;
 }
